@@ -1,0 +1,20 @@
+Hi, John 
+
+Recently, I received a check from OSSIPEE for SO 12887 , but there is no match invoice. I realized that we might need to communicate about the points below   
+
+1)      When a SO is completed, sales person shouldn’t physically turn the order status from “on order” to “completed” 
+
+2)      The right procedure is, to advise the logistical manger Tadas the order is completed. Tadas is the only authorized person to convert delivered sale order. Once, he created a shipment for the delivered order , I will get an auto-gendered invoice from the system for your customer
+
+Would you please participate with the procedure above, thank you ! 
+
+
+Best 
+Christine Tang 
+Account and Office Manager 
+Spire Metering Technology LLC. 
+249 Cedar Hill Street 
+Marlborough, MA 01720 
+(978)263-7100 Ext. 613 
+christine.tang@spiremt.com 
+
